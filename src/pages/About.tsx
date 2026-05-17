@@ -15,13 +15,17 @@ export default function About() {
       <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-6">About</h1>
       <div className="space-y-4 text-gray-600 dark:text-gray-300 leading-relaxed">
         <p>
-          I'm a full-stack developer who builds across the stack — from component architecture to cloud
-          infrastructure — using frameworks such as Angular and React on the frontend and AWS on the backend.
+          I build for the web — frontend, backend, and the cloud infrastructure in between.
+          Mostly Angular and React on the frontend, Node on the backend, AWS for everything else.
         </p>
         <p>
-          I spent time in agricultural technology, an industry where software has to hold up in
-          real-world conditions, not just in the browser. That background shaped how I think about
-          reliability, clarity, and making decisions I can actually defend.
+          I got into software through ag-tech, which turned out to be a pretty interesting place
+          to learn. Software in that world has to hold up in actual fields, on bad connections,
+          with real stakes. I still think about that when I'm building.
+        </p>
+        <p>
+          Right now I'm working on expanding this site as a hub for projects I'm building to
+          keep learning. New things get added here as they get built.
         </p>
       </div>
       <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mt-12 mb-6">Stack</h2>

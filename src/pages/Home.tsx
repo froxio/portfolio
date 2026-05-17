@@ -7,8 +7,8 @@ export default function Home() {
         Hi, I'm Harris
       </h1>
       <p className="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto mb-10">
-        Full-stack developer. I build with modern frameworks, ship to AWS, and care about
-        clean architecture and real results.
+        I build things for the web. Apps, APIs, the infrastructure behind them.
+        This is where I keep track of what I've made — take a look around.
       </p>
       <div className="flex gap-4 justify-center flex-wrap">
         <Link
