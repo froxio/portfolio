@@ -7,7 +7,7 @@ export default function Home() {
         Hi, I'm Harris
       </h1>
       <p className="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto mb-10">
-        Full-stack developer with a background in ag-tech. I build with React and AWS, and I care about
+        Full-stack developer. I build with modern frameworks, ship to AWS, and care about
         clean architecture and real results.
       </p>
       <div className="flex gap-4 justify-center flex-wrap">
