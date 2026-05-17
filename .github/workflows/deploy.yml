@@ -8,8 +8,6 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
 
-    environment: ${{ github.ref_name == 'main' && 'production' || 'development' }}
-
     env:
       S3_BUCKET: ${{ github.ref_name == 'main' && secrets.PROD_S3_BUCKET || secrets.DEV_S3_BUCKET }}
       CF_DIST_ID: ${{ github.ref_name == 'main' && secrets.PROD_CF_DIST_ID || secrets.DEV_CF_DIST_ID }}
