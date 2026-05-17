@@ -28,8 +28,8 @@ export default function About() {
           keep learning. New things get added here as they get built.
         </p>
         <p>
-          Outside of code I'm a multimedia artist and an avid hiker — equally at home in front
-          of a canvas as I am on a trail somewhere I've never been. I find a lot of the same
+          Outside of code I'm a multimedia artist and an avid hiker — equally at home in the shop
+          as I am on a trail somewhere I've never been. I find a lot of the same
           satisfaction in both: making something from nothing, and getting out far enough to
           appreciate how much world there is.
         </p>
