@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(git --version)",
+      "Bash(npm create *)",
+      "Bash(cd /Users/harrislangley/dev && npm create vite@latest portfolio-temp -- --template react-ts 2>&1)",
+      "Bash(cp -r /Users/harrislangley/dev/portfolio-temp/. /Users/harrislangley/dev/portfolio/)",
+      "Bash(rm -rf /Users/harrislangley/dev/portfolio-temp)",
+      "Bash(npm install *)",
+      "Bash(npm list *)",
+      "Bash(npm run *)",
+      "Bash(git init *)",
+      "Bash(git remote *)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5173/)"
+    ]
+  }
+}
