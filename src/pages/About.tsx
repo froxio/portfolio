@@ -27,6 +27,12 @@ export default function About() {
           Right now I'm working on expanding this site as a hub for projects I'm building to
           keep learning. New things get added here as they get built.
         </p>
+        <p>
+          Outside of code I'm a multimedia artist and an avid hiker — equally at home in front
+          of a canvas as I am on a trail somewhere I've never been. I find a lot of the same
+          satisfaction in both: making something from nothing, and getting out far enough to
+          appreciate how much world there is.
+        </p>
       </div>
       <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mt-12 mb-6">Stack</h2>
       <div className="grid grid-cols-2 gap-3">
