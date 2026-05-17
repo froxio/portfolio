@@ -19,9 +19,9 @@ export default function About() {
           Mostly Angular and React on the frontend, Node on the backend, AWS for everything else.
         </p>
         <p>
-          I got into software through school and ended up working in environmental tech —
-          an interesting place to land, where the problems are real and the data actually matters.
-          That experience shapes how I approach building things.
+          I'm drawn to software that connects to something real — systems where the output
+          actually affects how people interact with the world around them. That's pulled me
+          toward environmental and ag-tech, industries where good software genuinely matters.
         </p>
         <p>
           Right now I'm working on expanding this site as a hub for projects I'm building to
